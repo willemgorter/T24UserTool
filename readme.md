@@ -44,4 +44,4 @@ Pull requests are welcome.
 For issues, please open an issue or request.
 
 ## License
-None
+GNU
