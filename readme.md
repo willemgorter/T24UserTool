@@ -20,29 +20,28 @@ myRequest.send ("ofsRequest=" & sOFS)
 ## Usage
 
 The following actions can be done with the tool:
--Create users
--Password reset
--Execute OFS commands
--Update EB.LOOKUP table
--Extract Updates documentation
--Generate Data Dictionary
--Generate sample OFSML
--Maintain EB.USER.ROLES and USER.SMS.GROUPS
--List INAU records and authorise
--Translate online HelpText
--DataDownload (fill TAABS-like excel)
+* Create users
+* Password reset
+* Execute OFS commands
+* Update EB.LOOKUP table
+* Extract Updates documentation
+* Generate Data Dictionary
+* Generate sample OFSML
+* Maintain EB.USER.ROLES and USER.SMS.GROUPS
+* List INAU records and authorise
+* Translate online HelpText
+* DataDownload (fill TAABS-like excel)
+
 ## Screenshots
-Tranlation of helptext (includes using automatic translation with Google Translate and Microsoft Translator):
-<img src=“images/HelpTextTranslate.jpg” raw=true alt=“screenshot helptext translation” style=“margin-right: 10px;”/>
+*Tranlation of helptext (includes using automatic translation with Google Translate and Microsoft Translator):*
+![screenshot helptext translation](/images/HelpTextTranslate.jpg)
 
-Download full tables (here TRANSACTION table) from T24:
-<img src=“images/DownloadData.jpg” raw=true alt=“screenshot Data download” style=“margin-right: 10px;”/>
-
+*Download full tables (here TRANSACTION table) from T24:*
+![screenshot Data download](/images/DownloadData.jpg)
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Pull requests are welcome. 
+For issues, please open an issue or request.
 
 ## License
 None
