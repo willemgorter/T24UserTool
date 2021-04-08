@@ -3,7 +3,7 @@
 T24USerTool is an Excel workbook containing macros in VBA, that connects to T24 Transact Banking Software to perform various useful actions.
 
 ## Installation
-Extract the files. User_v7_x.xlsx is the tool, the documentation is in the form of a Word document, USERManagementTool_v7_x
+Extract the files. T24UserTool.xlsx is the tool, the documentation is in the form of a Word document, USERManagementTool_v7_x, but is no longer updated, the latest documentation is in the Wiki of this repository
 
 It connects to T24 using HTTP-GET (up to R16) or HTTP-POST (R17 and later) to perfom OFS requests.
 You need to be able to create a jboss-user in T24.
