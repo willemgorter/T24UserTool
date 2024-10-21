@@ -31,6 +31,8 @@ The following actions can be done with the tool:
 * List INAU records and authorise
 * Translate online HelpText
 * DataDownload (fill TAABS-like excel)
+* Auto-generate menu records from a selection
+* create/deploy dsf-packager packages
 
 ## Screenshots
 *Tranlation of helptext (includes using automatic translation with Google Translate and Microsoft Translator):*
